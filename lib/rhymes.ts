@@ -121,7 +121,7 @@ export const translations: Record<LanguageCode, Strings> = {
     brand: "RhymeWorld",
     navCollection: "Collection",
     heroKicker: "Nursery rhymes from every corner of the world",
-    heroTitle: "Little songs, big wonder.",
+    heroTitle: "Welcome to My Store",
     heroSubtitle: "Collect timeless nursery rhymes from across the globe, starting at just $0.03.",
     heroCta: "Explore the collection",
     featured: "Featured rhymes",
@@ -239,7 +239,7 @@ export const translations: Record<LanguageCode, Strings> = {
     payNow: "支払う",
     total: "合計",
     success: "お支払い完了！",
-    successNote: "うたの準備ができました。集めていただきありがとうございます。",
+    successNote: "うたの準備ができました。集めていただき���りがとうございます。",
     playAnother: "もっと見る",
   },
   hi: {
