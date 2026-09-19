@@ -21,10 +21,10 @@ export default function Page() {
   }
 
   return (
-    <main className="relative flex h-dvh flex-col overflow-hidden bg-gradient-to-b from-violet-50 via-fuchsia-50 to-white">
+    <main className="relative flex h-dvh flex-col overflow-hidden bg-gradient-to-b from-violet-100 via-purple-50 to-violet-50">
       <div
         aria-hidden="true"
-        className="pointer-events-none absolute -left-24 -top-24 size-72 rounded-full bg-violet-300/40 blur-3xl"
+        className="pointer-events-none absolute -left-24 -top-24 size-72 rounded-full bg-violet-200/45 blur-3xl"
       />
       <div
         aria-hidden="true"
